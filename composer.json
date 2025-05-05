@@ -1,0 +1,23 @@
+{
+    "name": "wika-group/sso-user-definitions",
+    "description": "Provides common enums for user fields",
+    "keywords": ["SSO", "Single Sign On"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WIKA Group",
+            "email": "webapps-admin@wika.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "WikaGroup\\Sso\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.2"
+    }
+}
