@@ -4,4 +4,4 @@ Just a bunch of enums containing common user field definitions.
 
 ## Installation
 
-`composer require laravel/socialite`
+`composer require wika-group/sso-user-definitions`
